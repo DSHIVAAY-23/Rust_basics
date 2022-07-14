@@ -1,0 +1,1 @@
+C:\Users\raidi\OneDrive\Desktop\rust_game\Basic_rust\hello\target\debug\hello.exe: C:\Users\raidi\OneDrive\Desktop\rust_game\Basic_rust\hello\src\cli.rs C:\Users\raidi\OneDrive\Desktop\rust_game\Basic_rust\hello\src\main.rs
